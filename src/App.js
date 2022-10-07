@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Ingenio Prueba GIT HUB</h1>
+          <h1>INGENIO SGI</h1>
+          <h5>¡Generamos la ventaja competitiva que su empresa necesita!</h5>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://ingeniosgi.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visita Nuestro Sitio Web
         </a>
       </header>
     </div>
